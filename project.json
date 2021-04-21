@@ -10,7 +10,7 @@
     "win": 0,
     "lose": 0,
     "Money": 20,
-    "Health": 50,
+    "Health": 10,
     "Awards": 0,
     "Event": 0
   },
